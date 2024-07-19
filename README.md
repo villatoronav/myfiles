@@ -1,2 +1,3 @@
-# thebubble
-Big Blue 
+# TheBubble
+Blue 
+The story was very long
